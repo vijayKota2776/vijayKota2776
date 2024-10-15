@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vijay Kota
 - 👀 I’m interested in robotics 
 - 🌱 I’m currently learning python
-- 📫 How to reach me vijaykot2776@gmail.com
+- 📫 How to reach me vijaykota2776@gmail.com
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/vijaykota2776?t=DXQdxfsUXDKqL8SVWU7BGw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadavsourabhx" height="30" width="40" /></a>
