@@ -12,7 +12,7 @@
 ### 🛠️ Skills and Tools
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
@@ -30,14 +30,14 @@ An AI-powered safety app enhancing public safety with surveillance-based behavio
 
 ### 🌟 Highlights
 - 🔥 **Hackathon Participation**: Created **SafeZone AI** at a hackathon to reduce crime against women using AI-powered surveillance.
-- 🎤 **Industry Speaker**: Delivered a lecture on **AI, Generative AI, and Git** to budding developers.
+- 🎤 **Industry talks**: Attend  a lecture on **AI, Generative AI, and Git** to budding developers.
 
 ---
 
 ### 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/vijaykota2776/))
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)]([https://github.com/vijayKota2776)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)]([ttps://www.instagram.com/vijaykota2776?igsh=MWRnenYyd25tYjd0dQ==](https://www.instagram.com/vijaykota2776/))
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/vijaykota2776/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/vijayKota2776)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/vijaykota2776/)
 
 ---
 
