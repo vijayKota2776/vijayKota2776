@@ -13,8 +13,8 @@
 ### 🚀 About Me
 - 🌱 I’m currently a **1st-year Computer Science Engineering Student** at **ITM Skills University**.
 - 💻 I’m passionate about **AI, Generative AI, Robotics**, and **Web Development**.
-- 📈 Exploring projects in **IOT** and **sRobotics**.
-- 🌍 Always keen to learn and contribute to **open-source** projects.
+- 📈 Exploring projects in **IOT** and **Robotics**.
+- 🌍 Always eager to learn and actively contribute to **open-source** projects.
 
 ---
 
