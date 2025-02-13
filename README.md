@@ -37,10 +37,10 @@
 ---
 
 ## 📂 Featured Projects
-### 🌾 [Faram](https://github.com/vijayKota2776/Faram)
+### 🌾 [Faram]([https://github.com/vijayKota2776/Faram](https://github.com/vijayKota2776/Frama.git))
 An app for agriculture, entrepreneurship, and technology providing crop recommendations, profitability analysis, farming tool rentals, and more.
 
-### 🛡️ [SafeZone AI](https://github.com/vijayKota2776/SafeZoneAI)
+### 🛡️ [SafeZone AI]([https://github.com/vijayKota2776/SafeZoneA](https://github.com/vijayKota2776/SafeZone-AI.git)I)
 An AI-powered safety app enhancing public safety with surveillance-based behavior detection and real-time alerts.
 
 ---
