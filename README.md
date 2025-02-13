@@ -23,10 +23,6 @@
 ## 🛠️ Tech Stack
 
 ### ✅ Proficient In:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
@@ -37,10 +33,10 @@
 ---
 
 ## 📂 Featured Projects
-### 🌾 [Faram]([https://github.com/vijayKota2776/Faram](https://github.com/vijayKota2776/Frama.git))
+### 🌾 [Faram](https://github.com/vijayKota2776/Frama.git)
 An app for agriculture, entrepreneurship, and technology providing crop recommendations, profitability analysis, farming tool rentals, and more.
 
-### 🛡️ [SafeZone AI]([https://github.com/vijayKota2776/SafeZoneA](https://github.com/vijayKota2776/SafeZone-AI.git)I)
+### 🛡️ [SafeZone AI](https://github.com/vijayKota2776/SafeZone-AI.git)
 An AI-powered safety app enhancing public safety with surveillance-based behavior detection and real-time alerts.
 
 ---
