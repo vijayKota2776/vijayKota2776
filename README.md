@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello+World!+👋;+I'm+Vijay+Kota!;" />
 </h1>
 
-<h2 align="center"> 🧑🏻‍💻 I am a first-year B.Tech student at ITM Skills University.</h2>
+<h2 align="center"> 🧑🏻‍💻 I am a 2nd-year B.Tech student at ITM Skills University.</h2>
 
 <p align="center">
   <img alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
@@ -30,14 +30,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
----
 
-## 📂 Featured Projects
-### 🌾 [Faram](https://github.com/vijayKota2776/Frama.git)
-An app for agriculture, entrepreneurship, and technology providing crop recommendations, profitability analysis, farming tool rentals, and more.
-
-### 🛡️ [SafeZone AI](https://github.com/vijayKota2776/SafeZone-AI.git)
-An AI-powered safety app enhancing public safety with surveillance-based behavior detection and real-time alerts.
 
 ---
 
