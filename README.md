@@ -13,9 +13,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently a **1st-year Computer Science Engineering Student** at **ITM Skills University**.
-- 💻 I’m passionate about **AI, Generative AI, Robotics**, and **Web Development**.
-- 📈 Exploring projects in **IoT** and **Robotics**.
+- 🌱 I’m currently a **2nd-year Computer Science Engineering Student** at **ITM Skills University**.
+- 💻 I’m passionate about **Cybersecurity, Robotics**, and **Web Development**.
+- 📈 Exploring projects in **IoT in Cybersecurity** and **Robotics**.
 - 🌍 Always eager to learn and actively contribute to **open-source** projects.
 
 ---
@@ -25,11 +25,13 @@
 ### ✅ Proficient In:
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
-### 📚 Currently Learning:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![DSA 1](https://img.shields.io/badge/-DSA%201-FF5733?style=flat)
 
+### 📚 Currently Learning:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![DSA 2](https://img.shields.io/badge/-DSA%202-900C3F?style=flat)
 
 
 ---
